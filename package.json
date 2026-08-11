@@ -1,0 +1,9 @@
+{
+  "name": "crypto-wallet-utils-demo",
+  "version": "1.0.3",
+  "description": "Demo wallet utility patterns for research purposes",
+  "dependencies": {
+    "crypto-js": "^3.3.0"
+  },
+  "license": "CC0"
+}
